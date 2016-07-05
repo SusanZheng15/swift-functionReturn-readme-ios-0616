@@ -16,7 +16,7 @@ func getAge(name: String) -> Int {
 
 // Uncomment to see the error
 /*
-func badGetAge(name: String) -> Int {
+func badGetAge(name: String) -> Int {   //expects a Int as the return type
     print("\(name) is 29")
 }
 */
